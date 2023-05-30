@@ -5,4 +5,4 @@ There's a code `OT-2_BalanceCommunication` to connect and communicate with a Met
 
 Additionally, three 3-d printing files & are presented in the `design-files` directory to produce a mass balance adapter as shown in the note. Finally, a technical drawing is also shown in this directory. This should be followed for cutting out slot #2 of the Opentrons deck where the mass balance will slot in. The end result should look as shown below.
 
-<img width="124" alt="image" src="https://github.com/AniketChitre/opentrons-balance/assets/56798326/e7e6951f-46db-4210-8571-29b94c7e3abc">
+![image](https://github.com/AniketChitre/opentrons-balance/assets/56798326/19a08bce-621e-47d2-8f16-87615909a4f7)
